@@ -8,7 +8,7 @@ const About = () => {
                     <h2 className="text-xl font-bold dark:text-gray-100 tracking-tight text-gray-800 mb-4 py-2">
                         About me
                     </h2>
-                    <img src="/public/wp8046887-jujutsu-kaisen-computer-wallpapers.jpg" alt='img' style={{ width: '180px', height: '180px', justify: 'center', padding: 'auto', borderRadius: '50%', objectFit: 'cover' }} />
+                    <img src="/wp8046887-jujutsu-kaisen-computer-wallpapers.jpg" alt='img' style={{ width: '180px', height: '180px', justify: 'center', padding: 'auto', borderRadius: '50%', objectFit: 'cover' }} />
                     <p className="text-md font-bold text-gray-600 dark:text-gray-200 mb-2 pt-4 pb-2">
                         Tech Stack
                     </p>
