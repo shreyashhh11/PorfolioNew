@@ -8,10 +8,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'coffee': '#121212',
+        'coffee': '#5f5151',
         'light-bg': '#f1d7de',
         'light-about':'#ffffff',
-        'dark-about': '#121212',
+        'dark-about': '#5f5151',
         
       },
     },
